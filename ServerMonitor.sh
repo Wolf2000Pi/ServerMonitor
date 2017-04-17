@@ -59,7 +59,7 @@ ESM_NAME="eZ Server Monitor \`sh"
 ESM_VERSION="3.0"
 ESM_AUTHOR="ShevAbam & Wolf2000"
 ESM_CREATED="16 April 2017"
-ESM_URL="http://www.ezservermonitor.com"
+ESM_URL=" https://github.com/Wolf2000Pi http://www.ezservermonitor.com"
  
 # Colors
 NC="\e[0m"
